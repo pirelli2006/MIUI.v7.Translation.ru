@@ -3153,7 +3153,7 @@
     <string name="password_entrance_title">Пароль</string>
     <string name="turn_off_common_password_confirm_msg">Пароль будет отключен</string>
     <string name="apply_fingerprint_to_category_title">Использование отпечатков</string>
-    <string name="fingerprint_list_title">Сканирование отпечатков</string>
+    <string name="fingerprint_list_title">Отпечаток</string>
     <string name="add_fingerprint_text">Добавить отпечаток пальца</string>
     <string name="delete_fingerprint_text">Удаление отпечатка</string>
     <string name="delete_fingerprint_confirm_msg">Удалить отпечаток?</string>
